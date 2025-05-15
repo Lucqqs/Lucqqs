@@ -10,3 +10,4 @@ Lucas André - Desemvolvedor Web - Estudante TI
 [GitHub Stats](https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucqqqs&show_icons=true&theme=radical)
