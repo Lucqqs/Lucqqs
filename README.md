@@ -12,9 +12,3 @@ Lucas André - Desenvolvedor Web - Estudante TI
 
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
-
-## 📊 GitHub Stats
-
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuuser&show_icons=true&theme=radical)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=seuuser.seuuser)
