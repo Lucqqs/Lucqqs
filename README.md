@@ -16,3 +16,5 @@ Lucas André - Desenvolvedor Web - Estudante TI
 ## 📊 GitHub Stats
 
 ![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuuser&show_icons=true&theme=radical)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=seuuser.seuuser)
