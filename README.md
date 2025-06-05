@@ -25,23 +25,18 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=radical)
-
----
-
-## 🧠 Atualmente aprendendo
+## 🧠 Interreses em aprender
 
 - React
 - POO com PHP
 - APIs REST
+- Java
 
 ---
 
 ## 📫 Como me encontrar
 
 - [Portfólio](http://127.0.0.1:5500/Portfolio/index.html)
-- Email: **seuemail@dominio.com**
+- Email: **veigalucas976@gmail.com**
 
 ---
