@@ -1,14 +1,47 @@
-Lucas André - Desenvolvedor Web - Estudante TI
+# Lucas André - Desenvolvedor Web - Estudante de TI
 
-📱Contato: [Portfólio](http://127.0.0.1:5500/Portfolio/index.html )
+📱 **Contato**: [Portfólio](http://127.0.0.1:5500/Portfolio/index.html)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 
-## 🛠️ Tecnologias e Ferramentas
+---
 
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+## 🚀 Sobre mim
+
+- 🎓 Estudante de TI, desenvolvendo habilidades em desenvolvimento web.
+- 💡 Foco atual: melhorar conhecimentos em JavaScript, PHP e MySQL.
+- 🛠️ Gosto de criar interfaces modernas utilizando **Bootstrap** e **TailwindCSS**.
+- 📚 Sempre aprendendo e buscando evoluir.
+
+---
+
+## 📊 GitHub Stats
+
+![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=radical)
+
+---
+
+## 🧠 Atualmente aprendendo
+
+- React
+- POO com PHP
+- APIs REST
+
+---
+
+## 📫 Como me encontrar
+
+- [Portfólio](http://127.0.0.1:5500/Portfolio/index.html)
+- Email: **seuemail@dominio.com**
+
+---
