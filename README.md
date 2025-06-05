@@ -8,3 +8,11 @@ Lucas André - Desenvolvedor Web - Estudante TI
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
+## 🛠️ Tecnologias e Ferramentas
+
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+
+## 📊 GitHub Stats
+
+![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuuser&show_icons=true&theme=radical)
