@@ -24,19 +24,3 @@
 - 📚 Sempre aprendendo e buscando evoluir.
 
 ---
-
-## 🧠 Interreses em aprender
-
-- React
-- POO com PHP
-- APIs REST
-- Java
-
----
-
-## 📫 Como me encontrar
-
-- [Portfólio](http://127.0.0.1:5500/Portfolio/index.html)
-- Email: **veigalucas976@gmail.com**
-
----
