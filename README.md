@@ -1,6 +1,7 @@
 # Lucas André - Desenvolvedor Web - Estudante de TI
 
 📱 **Contato**: [Portfólio](http://127.0.0.1:5500/Portfolio/index.html)
+Email: veigalucas976@gmail.com 
 
 ---
 
