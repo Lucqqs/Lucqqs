@@ -21,7 +21,8 @@ Email: veigalucas976@gmail.com
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de TI, desenvolvendo habilidades em desenvolvimento web.
-- 💡 Foco atual: melhorar conhecimentos em JavaScript, PHP e MySQL.
+- 💡 Foco atual: melhorar conhecimentos JS e Framework front
+- Interreses: Me aprofundar em back
 - 🛠️ Gosto de criar interfaces modernas utilizando **Bootstrap** e **TailwindCSS**.
 - 📚 Sempre aprendendo e buscando evoluir.
 
